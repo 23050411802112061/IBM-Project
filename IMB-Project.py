@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1ZCtpuj7toS82vjmGsfEoPo4jyhl9iNWy
 """
 
-!pip install transformers torch gradio PyPDF2 -q
 
 !pip install transformers torch gradio PyPDF2 -q
 
