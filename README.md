@@ -1,1 +1,1 @@
-# IMB-Project
+# IBM-Project
